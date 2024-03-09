@@ -4,6 +4,7 @@ import Search from './components/Search'
 import useForecast from './hooks/useForecast'
 
 const App = (): JSX.Element => {
+  console.log("hiiiiii")
   const { forecast, options, term, onOptionSelect, onSubmit, onInputChange } =
     useForecast()
 
