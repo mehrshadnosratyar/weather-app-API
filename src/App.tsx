@@ -5,6 +5,7 @@ import useForecast from './hooks/useForecast'
 
 const App = (): JSX.Element => {
   console.log("hiiiiii")
+  console.log("helllooooooo')console.log("helllooooooo')console.log("helllooooooo')console.log("helllooooooo')
   const { forecast, options, term, onOptionSelect, onSubmit, onInputChange } =
     useForecast()
 
