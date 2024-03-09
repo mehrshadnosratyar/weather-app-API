@@ -1,5 +1,13 @@
 const Header = (): JSX.Element => (
   <>
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    console.log("helllooooooo')
+    
     <h1 className="text-4xl font-thin">
       Weather <span className="font-black">Forecast</span>
     </h1>
